@@ -1,0 +1,141 @@
+﻿Id,Name,Gender,Job,House,Wand,Patronus,Species,Blood status,Hair colour,Eye colour,Loyalty,Skills,Birth,Death
+1,Harry James Potter,Male,Student,Gryffindor,11 inche Holly phoenix feather,Stag,Human,Half - blood,Black,Bright green,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Parseltongue| Defence Against the Dark Arts | Seeker,1980,
+2,Ronald Bilius Weasley,Male,Student,Gryffindor,12 inche Ash unicorn tail hair ,Jack Russell terrier,Human,Pure - blood,Red,Blue,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Wizard chess | Quidditch goalkeeping,1980,
+3,Hermione Jean Granger,Female,Student,Gryffindor,10¾ inche vine wood dragon heartstring,Otter,Human,Muggle - born,Brown,Brown,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Almost everything,1979,
+4,Albus Percival Wulfric Brian Dumbledore,Male,Headmaster,Gryffindor,15 inche Elder Thestral tail hair core,Phoenix,Human,Half - blood,Silver| formerly auburn,Blue,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Considered by many to be one of the most powerful wizards of his time,1881,30 June 1997
+5,Rubeus Hagrid,Male,Keeper of Keys and Grounds | Professor of Care of Magical Creatures,Gryffindor,16 inche Oak core,None,Half - Human/Half - Giant,Part - Human (Half - giant),Black,Black,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Resistant to stunning spells| above average strength | crossbowmanship,1928,
+6,Neville Longbottom,Male,Student,Gryffindor,13 inche Cherry unicorn hair,Non - corporeal,Human,Pure - blood,Blond,,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Herbology,1980,
+7,Fred Weasley,Male,Student,Gryffindor,,,Human,Pure - blood,Red,Brown,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Beater,1978,2 May 1998
+8,George Weasley,Male,Student,Gryffindor,,,Human,Pure - blood,Red,Brown,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Beater,1978,
+9,Ginevra (Ginny) Molly Weasley,Female,Student,Gryffindor,,Horse,Human,Pure - blood,Red,Bright brown,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Chaser| Bat - Bogey hex,1981,
+10,Dean Thomas,Male,Student,Gryffindor,,,Human,Muggle - born,Black,Brown,Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry,Chaser,1980,
+11,Seamus Finnigan,Male,Student,Gryffindor,,Fox,Human,Half - blood,Sandy,,Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry,Pyrotechnics,1981,
+12,Lily J. Potter,Female,,Gryffindor,10¼ inche Willow core,Doe,Human,Muggle - born,Auburn,Bright green,Order of the Phoenix,,1960,31 October 1981
+13,James Potter,Male,,Gryffindor,11 inche Mahogany core,Stag,Human,Pure - blood,Black,Hazel,Order of the Phoenix,Animagus| Seeker,1960,31 October 1981
+14,Sirius Black,Male,,Gryffindor,,,Human,Pure - blood,Black,Grey,Order of the Phoenix,Animagus| nonverbal magic| Charms,1959,18 June 1996
+15,Remus John Lupin,Male,Professor of Defence Against the Dark Arts,Gryffindor,10¼ inche Cypress unicorn hair,Wolf,Werewolf,Half - blood,Light brown flecked with grey,Green,Order of the Phoenix,Exceptionally gifted in Defence Against the Dark Arts,1960,2 May 1998
+16,Peter Pettigrew,Male,The Servant of Lord Voldemort,Gryffindor,9¼ inche Chestnut dragon heartstring,None,Human,Half - blood or pure - blood,Colourless and balding,Blue,Lord Voldemort| Death Eaters,Animagus,1959,Late March 1998
+17,Percy Ignatius Weasley,Male,Student|Prefect| Personal assistant to Barty Crouch Snr,Gryffindor,,,Human,Pure - blood,Red,Blue,Order of the Phoenix| Hogwarts School of Witchcraft and Wizardry |British Ministry of Magic,Intelligent| hard - working| a model student,1976,
+18,(Bill) William Arthur Weasley,Male,Curse - Breaker for Gringotts Bank,Gryffindor,,,Human (Werewolf traits),Pure - blood,Red,Blue,Order of the Phoenix,Highly skilled curse - breaker for Gringotts Wizarding Bank| very intelligent| past Hogwarts Head Boy,1970,
+19,Charles Weasley,Male,Dragonologist,Gryffindor,12 inche Ash unicorn tail hair,,Human,Pure - blood,Red,Grey,Order of the Phoenix | Gringotts Wizarding Bank,Highly skilled dragon trainer| one - time Gryffindor Seeker,1972,
+20,Lee Jordan,Male,Student,Gryffindor,,,Human,Pure - blood or half - blood,Black,Brown,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Quidditch commentary | broadcasting,1978,
+21,Oliver Wood,Male,Student,Gryffindor,,,Human,Pure - blood or Half - blood,,,Hogwarts School of Witchcraft and Wizardry,Keeper| Captain of the Gryffindor Quidditch team,1976,
+22,Angelina Johnson,Female,Student,Gryffindor,,,Human,,Brown,Brown,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Chaser,1977,
+23,Katie Bell,Female,Student,Gryffindor,,,Human,Pure - blood or half - blood,Brown,Brown,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Chaser,1979,
+24,Alicia Spinnet,Female,Student,Gryffindor,,,Human,Pure - blood or half - blood,Brown,Brown,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Chaser,1978,
+25,Lavender Brown,Female,Student,Gryffindor,,,Human,Pure - blood,Blond,Blue,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Divination,1980,2 May 1998
+26,Parvati Patil,Female,Student,Gryffindor,,,Human,Pure - blood or half - blood,Dark,Dark,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Divination,1979,
+27,Romilda Vane,Female,Student,Gryffindor,,,Human,Pure - blood or half - blood,Black,Dark,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Spiking Chocolate Cauldrons with love potion,1982,
+28,Colin Creevey,Male,Student,Gryffindor,,,Human,Muggle - born,Mousy,,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Photography,1981,2 May 1998
+29,Cormac McLaggen,Male,Student,Gryffindor,,,Human,Pure - blood or half - blood,Blond,,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Quidditch Keeper,1979,
+30,Minerva McGonagall,Female,Professor of Transfiguration | Head of Gryffindor,Gryffindor,9½ inche Fir dragon heartstring,Cat,Human,Half - blood,Black,Green,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Animagus,1935,
+31,Molly Weasley,Female,,Gryffindor,,,Human,Pure - blood,Red,Bright brown,Order of the Phoenix,Household spells| healing magic,1949,
+32,Arthur Weasley,Male,Head of the Misuse of Muggle Artefacts Office,Gryffindor,,Weasel,Human,Pure - blood,Red,Green,Order of the Phoenix| British Ministry of Magic,Muggle world works,1950,
+33,Quirinus Quirrell,Male,Defence Against the Dark Arts(1991 - 1992),Ravenclaw,9 inche Alder unicorn hair bendy,Non - corporeal,Human,Half - blood,,,Lord Voldemort,Learned in the theory of Defensive Magic| less adept in the practise,1970,4 June 1992
+34,Cho Chang,Female,Student,Ravenclaw,,Swan,Human,Pure - blood or half - blood,Black,Dark,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Seeker,1979,
+35,Luna Lovegood,Female,Student,Ravenclaw,,Hare,Human,Pure - blood or half - blood,Dirty - blonde,Pale silvery,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Spotting Nargles,1981,
+36,Gilderoy Lockhart,Male,Defence Against the Dark Arts(1992 - 1993),Ravenclaw,9 inche Cherry dragon heartstring,Non - corporeal,Human,Half - blood,Blond,Blue,,,1964,
+37,Filius Flitwick,Male,Professor of Charms | Head of Ravenclaw,Ravenclaw,,Non - corporeal,Human(goblin ancestry),Part - Goblin,White,,,Charms,1958,
+38,Sybill Patricia Trelawney,Female,Professor of Divination,Ravenclaw,9 ½” hazel unicorn hair core,Non - corporeal,Human,Half - blood,,,,A Seer though the gift is unpredictable and unconscious,1962,
+39,Garrick Ollivander,Male,Wandmaker,Ravenclaw,12¾ inche Hornbeam dragon heartstring,Non - corporeal,Human,Half - blood,,Silvery,,An incomparable understanding of wandcraft,1908,
+40,Myrtle Elizabeth Warren (Moaning Myrtle),Female,Student,Ravenclaw,,,Ghost,Muggle - born,,,,,1929,13 June 1943
+41,Padma Patil,Female,Student,Ravenclaw,,Non - corporeal,Human,Pure - blood or half - blood,Dark,Dark,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Prefect,1979,
+42,Michael Corner,Male,Student,Ravenclaw,,Squirrel,Human,Half - blood,Black,Brown,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Potions,1980,
+43,Marietta Edgecombe,Female,Student,Ravenclaw,,,Human,Pure - blood or half - blood,Reddish - blonde,Grey,,Covering up the spots that blight her face after betraying Dumbledore's Army,1978,
+44,Terry Boot,Male,Student,Ravenclaw,,,Human,Pure - blood or half - blood,,,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Potions also knowledgable about Charms,1980,
+45,Anthony Goldstein,Male,Student,Ravenclaw,,Non - corporeal,Human,Half - blood,Blonde,Grey,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Prefect,1980,
+46,Severus Snape,Male,Professor of Potions | Head of Slytherin,Slytherin,,Doe,Human,Half - blood,Black,Black,,Extremely skilled at potions and Occlumency,1960,2 May 1998
+47,Draco Malfoy,Male,Student,Slytherin,10 inche Hawthorn unicorn hair,,Human,Pure - blood,White - blond,Grey,,Prefect Seeker,1980,
+48,Vincent Crabbe,Male,Student,Slytherin,,,Human,Pure - blood,Black,Black,,Beater,1980,2 May 1998
+49,Gregory Goyle,Male,Student,Slytherin,,,Human,Pure - blood,Brown,,,Beater,1980,
+50,Bellatrix Lestrange,Female,,Slytherin,12¾ inche Walnut dragon heartstring,,Human,Pure - blood,Black,,Lord Voldemort | Death Eaters,She is a duellist of great skill and an experienced Occlumens,1951,2 May 1998
+51,Dolores Jane Umbridge,Female,Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement,Slytherin,8 inche Birch dragon heartstring,Cat,Human,Half - blood,Iron grey,,Ministry of Magic,Her punishment quill is of her own invention,1961,
+52,Horace Eugene Flaccus Slughorn,,Professor of Potions,Slytherin,10¼ inche Cedar dragon heartstring fairly flexible,Non - corporeal,Human,Pure - blood or half - blood,Bald,Gooseberry,,Accomplished Occlumens expert Potioneer advanced self - transfiguration,1882,
+53,Lucius Malfoy,Male,School Governor,Slytherin,Elm and dragon heartstring,,Human,Pure - blood,White - blond,Grey,Lord Voldemort | Death Eaters,Skilled duellist and potioneer,1954,
+54,Narcissa Malfoy,Female,,Slytherin,,,Human,Pure - blood,Blonde,Blue,Lord Voldemort | Death Eaters,,1955,
+55,Regulus Arcturus Black,Male,,Slytherin,,Non - corporeal,Human,Pure - blood,Black,,,Seeker,1961,1979
+56,Pansy Parkinson,Female,Student,Slytherin,,,Human,Pure - blood or half - blood,,,,Prefect,1979,
+57,Blaise Zabini,Male,Student,Slytherin,,,Human,Pure - blood or half - blood,Black,Brown,,Chaser,1979,
+58,Tom Marvolo Riddle,Male,Student,Slytherin,13½ inche Yew phoenix feather core,,Human,Half - blood,Bald,Scarlet,,Dark Lord Outstanding manipulation Parseltongue Heir of Slytherin Dark magic Inferi creation and control,1926,2 May 1998
+59,Theodore Nott,Male,Student,Slytherin,,,Human,Pure - blood,Brown,,,,1980,
+60,Rodolphus Lestrange,Male,,Slytherin,,,Human,Pure - blood,Dark,Dark,Lord Voldemort | Death Eaters,,1952,
+61,Millicent Bulstrode,Female,Student,Slytherin,,,Human,Half - blood,Black,,,,1979,
+62,Graham Montague,Male,Student,Slytherin,,,Human,Pure - blood or half - blood,Brown,Brown,,Quidditch captain Chaser,1981,
+63,Bloody Baron,Male,Slytherin House Ghost,Slytherin,,,Ghost,Pure - blood or half - blood,,,,Controlling Peeves,982,11th century
+64,Marcus Flint,Male,Student,Slytherin,,,Human,Pure - blood or half - blood,Black,,,Chaser Captain,1976,
+65,Penelope Clearwater,Female,Student,Ravenclaw,,Non - corporeal,Human,Muggle - born or half - blood[,Blonde,,,Prefect,1976,
+66,Roger Davies,Male,Student,Ravenclaw,,,Human,,Dark,Dark,,Quidditch Captain Chaser,1978,
+67,Marcus Belby,Male,Student,Ravenclaw,,,Human,Pure - blood or half - blood,Brown,Dark,,,1979,
+68,Salazar Slytherin,Male,Founder of Slytherin,Slytherin,snakewood Basilisk horn,,Human,Pure - blood,Grey,Dark,,Accomplished Legilimens and one of the first recorded Parselmouths,934,11th century
+69,Godric Gryffindor,Male,Founder of Gryffindor,Gryffindor,,,Human,Pure - blood or half - blood,Red,Green,,The most accomplished duellist of his time,975,11th century
+70,Rowena Ravenclaw,Female,Founder of Ravenclaw,Ravenclaw,,,Human,Pure - blood or half - blood,Black,Dark,,Extremely skilled witch known for her intelligence and wisdom,993,11th century
+71,Nicholas de Mimsy - Porpington,Male,Gryffindor House Ghost,Gryffindor,,,Ghost,,Grey,,,,1400,31 October 1492
+72,Cuthbert Binns,Male,Professor of History of Magic,,,,Ghost,,White (balding),Black,,Boring a class with facts that might be interesting if anyone else was giving the lesson,,Pre 1970s
+73,Barty Crouch Jr.,Male,Professor of Defence Against the Dark Arts (as Alastor Moody),,,,Human,Pure - blood or half - blood,Straw blond,Pale freckled,Lord Voldemort | Death Eaters,Skilled potioneer,1962,1995 - 1996
+74,Charity Burbage,Female,Professor of Muggle Studies,,,Non - corporeal,Human,Pure - blood or half - blood,Blonde,,,Teaching and studying the Muggle world,1976,Late July 1997
+75,Firenze,Male,Professor of Divination,,,,Centaur,,White - blond,Astonishingly blue,,,,
+76,Alecto Carrow,Female,Professor of Muggle Studies,Slytherin,,,Human,Pure - blood or half - blood,,,Lord Voldemort | Death Eaters,Spreading anti - Muggle propaganda,1981,
+77,Amycus Carrow,Male,Professor of Dark Arts,Slytherin,,,Human,Pure - blood or half - blood,,,Lord Voldemort | Death Eaters,Cruciatus Curse,1982,
+78,Helga Hufflepuff,Female,Founder of Hufflepuff,Hufflepuff,,,Human,Pure - blood or half - blood,Brown,Blue,,Food - related Charms. Many traditional Hogwarts recipes originated with her,993,11th century
+79,Fat Friar,Male,Hufflepuff House Ghost,Hufflepuff,,,Ghost,,Brown,,,Curing peasants of the pox,,Pre 1988
+80,Helena Ravenclaw,Female,Ravenclaw House Ghost,Ravenclaw,,,Ghost,Pure - blood or half - blood,Black,Grey,,,982,996 - 1000
+81,Nymphadora Tonks,Female,Auror,Hufflepuff,,Jack rabbit Wolf,Human,Half - blood,Variable,Variable,Ministry of Magic | Order of the Phoenix,Talented Auror Metamorphmagus,1973,2 May 1998
+82,Pomona Sprout,Female,Professor of Herbology | Head of Hufflepuff House,Hufflepuff,,Non - corporeal,Human,Pure - blood or half - blood,,Grey,,Herbology,1931,
+83,Newton Scamander,Male,Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures,Hufflepuff,,,Human,Pure - blood or half - blood,Red brown,Blue,,Magizoology Order of Merlin Second Class,1897,
+84,Cedric Diggory,Male,Student,Hufflepuff,12¼ inche Ash unicorn hair,,Human,Pure - blood,Dark,Grey,,Skilled Seeker,1977,24 June 1995
+85,Justin Finch - Fletchley,Male,Student,Hufflepuff,,Non - corporeal,Human,Muggle - born,Red,,Dumbledore's Army,,1980,
+86,Zacharias Smith,Male,Student,Hufflepuff,,,Human,Pure - blood or half - blood,Blonde,,Dumbledore's Army,Chaser,1981,
+87,Hannah Abbott,Female,Student,Hufflepuff,,Non - corporeal,Human,Half - blood,Blonde,Brown,Dumbledore's Army,Defensive spells learned with Dumbledore's Army,1979,
+88,Ernest Macmillan,Male,Student,Hufflepuff,,Boar,Human,Pure - blood,Blond,,Dumbledore's Army,Revising being a Prefect getting the wrong end of the stick,1980,
+89,Susan Bones,Female,Student,Hufflepuff,,,Human,Half - blood,,,Dumbledore's Army,Defensive spells learned with Dumbledore's Army,1980,
+90,Walden Macnair,Male,Executioner for the Committee for the Disposal of Dangerous Creatures,Slytherin,,,Human,Pure - blood or half - blood,Black,,Lord Voldemort | Death Eaters,Liaising with giants,1953,
+91,Augustus Rookwood,Male,Unspeakable,Slytherin,,None,Human,Pure - blood or half - blood,Brown/greying,,Lord Voldemort | Death Eaters,Spying for Lord Voldemort,1928,
+92,Antonin Dolohov,Male,Death Eater,Slytherin,,None,Human,Pure - blood or Half - blood,Dark,,Lord Voldemort | Death Eaters,Duelling. Fought and killed Molly Weasley's brothers and Remus Lupin,1949,
+93,Corban Yaxley,Male,Head of the Department of Magical Law Enforcement,Slytherin,,None,Human,Pure - blood or Half - blood,Blonde,Blue,Lord Voldemort | Death Eaters,Imperius curse undercover work,1953,
+94,Igor Karkaroff,Male,Headmaster of Durmstrang Institute,,,None,Human,Pure - blood or Half - blood,Silver| formerly black,,,Skilled in the Dark Arts,1950,24 June 1995 – 31 July 1996
+95,Kingsley Shacklebolt,Male,Auror | Minister for Magic,,,Lynx,Human,Pure - blood,Bald,Black,Order of the Phoenix,Exceptionally skilled duellist and Auror,1950,
+96,Alastor Moody,Male,Auror,,,Non - corporeal,Human,Pure - blood,Grey,One dark one electric blue,Order of the Phoenix,A highly accomplished Auror and an outstanding duellist also skilled in non - verbal magic,1952,27 July 1997
+97,Alice Longbottom,Female,Auror,,,,Human,Pure - blood,Blonde,,Original Order of the Phoenix,Auror,,
+98,Frank Longbottom,Male,Auror,Gryffindor,Inherited by his son Neville. It was broken in battle at the Department of Mysteries.,,Human,Pure - blood,Blonde,,Original Order of the Phoenix,Auror,1959,
+99,Rufus Scrimgeour,Male,Head of Auror Office| Minister for Magic,,,Non - corporeal,Human,,Tawny,Yellowish,Minister of Magic,Highly regarded as a skilled Auror,1968,1 August 1997
+100,Cornelius Oswald Fudge,Male,Minister for Magic,,,Non - corporeal,Human,Pure - blood or Half - blood,Grey,,Minister of Magic,Turning a blind eye to the continuing threat of Dark Magic in the name of keeping up morale,,
+101,Barty Crouch Sr.,Male,Head of the Department of International Magical Cooperation,,,Non - corporeal,Human,Pure - blood,Grey,,Minister of Magic,Multilingual able to fight the Imperius curse,,27 May 1995
+102,Amos Diggory,Male,Employee of the Department for the Regulation and Control of Magical Creatures[,,,Non - corporeal,Human,Pure - blood or half - blood,Brown,Ruddy,Minister of Magic,Works for the Department for the Regulation and Control of Magical Creatures,,
+103,Dedalus Diggle,Male,,,,Non - corporeal,Human,Pure - blood or half - blood,,,Order of the Phoenix,An enthusiastic volunteer for the Order and a helpful escort for Harry and his relatives,,
+104,Elphias Doge,Male,Special Advisor to the Wizengamot,,,Non - corporeal,Human,Pure - blood,Silver,Grey/Blue[,Order of the Phoenix,Writing,,
+105,Fleur Isabelle Delacour,Female,Part - time at Gringotts Wizarding Bank,Beauxbatons Academy of Magic,9½ inche Rosewood veela hair,Non - corporeal,Human,Quarter - Veela,Silvery - blonde,Dark blue[,Order of the Phoenix,part Veela and therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament,1977,
+106,Aberforth Dumbledore,Male,Owner and Barman of the Hog's Head Inn,,,Goat,Human,Half - blood,Grey,Bright Blue,Order of the Phoenix,Bartending caring for Ariana,1884,
+107,Mundungus Fletcher,Male,Dealer of wizarding artifacts,,,Non - corporeal,Human,Half - blood[,Ginger,Brown,Order of the Phoenix,Gathering information for the Order dealing in stolen cauldrons 'acquiring' the odd Muggle car,1962,
+108,Sturgis Podmore,Male,Advance Guard,,,,Human,Pure - blood or half - blood,Straw - coloured,Brown,Order of the Phoenix,Carrying out guard duty for the Order,1957,
+109,Hestia Jones,Female,Advance Guard,,,,Human,Pure - blood or half - blood,Black,,Order of the Phoenix,Carrying out escort missions for the Order,,
+110,Marlene McKinnon,Female,,,,,Human,,Red,Brown,Original Order of the Phoenix,,,July 1981
+111,Fabian Prewett,Male,,,,,Human,Pure - blood,Red,Grey,Original Order of the Phoenix,Duelling,,1981
+112,Gideon Prewett,Male,,,,,Human,Pure - blood,Red,Dark Grey,Original Order of the Phoenix,Duelling,,1981
+113,Emmeline Vance,Female,Advance Guard,,,,Human,,,,Order of the Phoenix,,,Early July 1996
+114,Edgar Bones,Male,,Hufflepuff,,,Human,Pure - blood or half - blood,Reddish - brown,Grey,Original Order of the Phoenix,Said to be a great wizard,,1981
+115,Dorcas Meadowes,Female,,,,,Human,,Black,Brown,Original Order of the Phoenix,,,1981
+116,Benjy Fenwick,Male,,,,,Human,,Black,Black,Original Order of the Phoenix,,,1981
+117,Madame Olympe Maxime,Female,Headmistress of Beauxbatons Academy of Magic,Beauxbatons Academy of Magic,,,Half - Human/Half - Giant,Part - Human (Half - giant),Brown,Black,,An ‘excellent dancer’ in the words of Dumbledore himself,,
+118,Gabrielle Delacour,Female,,Beauxbatons Academy of Magic,,,Human,Quarter - Veela,Silvery - blonde,,,part Veela and therefore may possess some of their magical powers,,
+119,Viktor Krum,Male,Seeker for the Bulgarian National Quidditch team,Durmstrang Institute,10¼ inche Hornbeam dragon heartstring,,Human,Pure - blood or half - blood,Dark,Dark,,One of the best Seekers in the world,,
+120,Petunia Dursley,Female,,,,,Human,Muggle,Blonde,,,,1958,
+121,Vernon Dursley,Male,Director at Grunnings,,,,Human,Muggle,Black,,,Schmoozing clients pretending magic doesn't exist,1956,
+122,Dudley Dursley,Male,,,,,Human,Muggle,Blond,Blue,,,1980,
+123,Marge Dursley,Female,Dog breeder,,,,Human,Muggle,Grey,,,Breeding bulldogs,1950,
+124,Dennis Creevey,Male,Student,Gryffindor,,,Human,Muggle - born,Mousy brown,,Dumbledore's Army,,1983,
+125,Albus Severus Potter,Male,Student,Slytherin,,,Human,Half - blood,Jet - black,Bright green,,,2006,
+126,Scorpius Hyperion Malfoy,Male,Student,Slytherin,,,Human,Pure - blood,White blond,Grey,,,2006,
+127,Edward Remus Lupin,Male,Student,Hufflepuff,,,Human (Metamorphmagus),Half - blood,Variable,Variable,,,1998,
+128,James Sirius Potter,Male,Student,Gryffindor,,,Human,Half - blood,,,,,2005,
+129,Rose Granger - Weasley,Female,Student,Gryffindor,,,Human,Half - blood,Red,,,Chaser,2006,
+130,Argus Filch,Male,Caretaker of Hogwarts,,,,Human,Squib,Grey,Pale,Hogwarts School of Witchcraft and Wizardry,Sniffing out mischief,1942,
+131,Poppy Pomfrey,Female,Matron at Hogwarts School,,,Non - corporeal,Human,Pure - blood or half - blood,,,Hogwarts School of Witchcraft and Wizardry,Skilled medical healer,,
+132,Rolanda Hooch,Female,Flying Instructor at Hogwarts,,,Non - corporeal,Human,,Grey,Yellow,Hogwarts School of Witchcraft and Wizardry,Teaching flying refereeing Quidditch matches,,
+133,Irma Pince,Female,Librarian at Hogwarts,,,Non - corporeal,Human,,,,Hogwarts School of Witchcraft and Wizardry,,,
+134,Aurora Sinistra,Female,Astronomer at Hogwarts,,,,Human,Pure - blood or half - blood,Dark,Dark,Hogwarts School of Witchcraft and Wizardry,,,
+135,Septima Vector,Female,Professor of Arithmancyat Hogwarts,,,,Human,,Black,,Hogwarts School of Witchcraft and Wizardry,,,
+136,Wilhelmina Grubbly - Plank,Female,Substitute professor of Care of Magical Creatures at Hogwarts,,,Non - corporeal,Human,,Grey,,Hogwarts School of Witchcraft and Wizardry,,,
+137,Fenrir Greyback,Male,,,,None,Werewolf,,Grey,,Lord Voldemort | Death Eaters,Physical combat,,
+138,Gellert Grindelwald,Male,Revolutionary leader(c. 1920s[6] – 1945),,15 inche Elder Thestral tail hair core,,Human,Pure - blood or half - blood,Blond,Blue,Gellert Grindelwald's Acolytes,Duelling,1883,March 1998
+139,Dobby,Male,Malfoy family's house - elf (? - 1993) Hogwarts kitchens worker (December 1994 - 1998),,,,House elf,,Green,,,A type of magic specific to house - elves performed without a wand which includes the ability to apparate disarm and make objects levitate,,Late March 1998
+
