@@ -16,19 +16,19 @@ The data is collected from the following sources:
 ## Running the Application
 - Install the dependencies using the following command:
 ```bash
-pip3 install requests
+install requests
 ```
 ```bash
-pip3 install io
+install io
 ```
 ```bash
-pip3 install pandas
+install pandas
 ```
 ```bash
-pip3 install matplotlib
+install matplotlib
 ```
 ```bash
-pip3 install Pillow
+install Pillow
 ```
 
 - Run the application using the following command:
