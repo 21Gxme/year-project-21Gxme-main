@@ -1,4 +1,4 @@
-pip3 install io
-pip3 install Pillow
-pip3 install requests
+io
+Pillow
+requests
 
