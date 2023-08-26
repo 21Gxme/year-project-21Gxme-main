@@ -4,21 +4,21 @@ from hp_data import hp_data
 
 
 class FacadeController:
-    def __init__(self):
+    def __init__(self) -> None:
         """
         The code defines a class with methods to retrieve house data and find the age of a person.
         """
         self.hp_data = hp_data()
         self.app = None
 
-    def run(self):
+    def run(self) -> None:
         """
         The function creates an instance of the App class and runs its main loop.
         """
         self.app = App()
         self.app.root.mainloop()
 
-    def get_house_data(self, house):
+    def get_house_data(self, house) -> any:
         """
         The function "get_house_data" returns the data for a specific house.
         
@@ -28,7 +28,7 @@ class FacadeController:
         """
         return self.hp_data.get_house_data(house)
 
-    def find_age(self, name):
+    def find_age(self, name: str) -> any:
         """
         The function "find_age" returns the age of a person given their name.
         

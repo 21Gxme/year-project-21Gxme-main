@@ -2,7 +2,7 @@ import pandas as pd
 
 
 class hp_info:
-    def __init__(self):
+    def __init__(self) -> None:
         """
         The function initializes three dataframes by reading CSV files and assigns specific columns to
         variables.
@@ -15,28 +15,28 @@ class hp_info:
         self.potion = self.df_po['Name']
         self.spell = self.df_sp['Name']
 
-    def get_name(self):
+    def get_name(self) -> any:
         """
         The function `get_name` returns the name attribute of an object.
         :return: The name attribute of the object.
         """
         return self.name
 
-    def name_in_list(self):
+    def name_in_list(self) -> any:
         """
         The function `name_in_list` returns the name attribute of an object as a list.
         :return: The method `name_in_list` is returning the `name` attribute as a list.
         """
         return self.name.to_list()
 
-    def get_potion(self):
+    def get_potion(self) -> any:
         """
         The function returns the value of the "potion" attribute.
         :return: The method `get_potion` is returning the value of the attribute `self.potion`.
         """
         return self.potion
 
-    def potion_in_list(self):
+    def potion_in_list(self) -> any:
         """
         The function returns a list representation of the potion.
         :return: The method `potion_in_list` is returning the result of calling the `to_list` method on
@@ -44,21 +44,21 @@ class hp_info:
         """
         return self.potion.to_list()
 
-    def get_spell(self):
+    def get_spell(self) -> any:
         """
         The function returns the value of the "spell" attribute.
         :return: The `get_spell` method is returning the value of the `spell` attribute.
         """
         return self.spell
 
-    def spell_in_list(self):
+    def spell_in_list(self) -> any:
         """
         The function returns the elements of the "spell" attribute as a list.
         :return: The method `spell_in_list` is returning the `spell` attribute converted to a list.
         """
         return self.spell.to_list()
 
-    def character_name(self):
+    def character_name(self) -> list:
         """
         The function `character_name` creates a list of dictionaries containing information about
         characters, with default values for missing data.
@@ -91,7 +91,7 @@ class hp_info:
             data.append(character)
         return data
 
-    def potion_name(self):
+    def potion_name(self) -> list:
         """
         The function `potion_name` creates a list of dictionaries containing information about potions,
         with default values of 'unknown' for any missing data.
@@ -116,7 +116,7 @@ class hp_info:
             data.append(potion)
         return data
 
-    def spell_name(self):
+    def spell_name(self) -> list:
         """
         The function `spell_name` takes a DataFrame `self.df_sp` and creates a list of dictionaries
         containing information about spells, with default values of 'unknown' for missing data.
@@ -141,7 +141,7 @@ class hp_info:
             data.append(spell)
         return data
 
-    def get_potions_data(self, Name_of_potion):
+    def get_potions_data(self, Name_of_potion) -> dict:
         """
         The function `get_potions_data` retrieves data about a potion based on its name.
         
