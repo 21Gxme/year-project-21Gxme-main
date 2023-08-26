@@ -7,7 +7,9 @@ import datetime as dt
 
 class hp_data:
     def __init__(self):
-        """Initialize the class."""
+        """
+        The function initializes several dataframes by reading CSV files related to Harry Potter movies.
+        """
         self.df_characters = pd.read_csv(
             "../Harry_Potter_Movies/shortversioncharacters.csv")
         self.df_spells = pd.read_csv("../Harry_Potter_Movies/Spells.csv")
@@ -23,4 +25,3 @@ class hp_data:
     def find_age(self, name):
         """Return the age of a character."""
         return self.df_year.loc[self.df_year["Name"] == name]["Birth"]
-

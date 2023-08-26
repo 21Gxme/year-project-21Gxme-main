@@ -14,6 +14,10 @@ class App(hp_data):
     """
 
     def __init__(self):
+        """
+        The code initializes a Tkinter GUI with two label frames, sets the title and size of the window, and
+        packs the frames into the window.
+        """
         super().__init__()
         self.root = Tk()
         self.df_for_graph = None
@@ -29,7 +33,10 @@ class App(hp_data):
         self.menu()
 
     def menu(self):
-        """ Create a menu button allowing the user to select what they want."""
+        """
+        The `menu` function creates a menu button with options for displaying information, plotting a graph,
+        and exiting the program.
+        """
         menu_button = tk.Menubutton(self.menu_frame, text="Select menu")
         menu_button.grid(row=0, column=0, padx=5, pady=5, sticky=tk.EW)
         menu_list = tk.Menu(menu_button, tearoff=0)
@@ -40,26 +47,37 @@ class App(hp_data):
         menu_list.add_command(label="Exit", command=self.root.destroy)
 
     def reset_button(self):
-        """ Create a reset button to reset the table."""
+        """
+        The `reset_button` function creates a button widget with the text "Reset" and assigns it a command
+        to call the `reset_display` method when clicked.
+        """
         reset_button = tk.Button(self.menu_frame, text="Reset",
                                  command=self.reset_display, width=10)
         reset_button.grid(row=10, column=0, padx=5, pady=10, sticky=tk.EW)
 
     def reset_display(self):
-        """ Reset the display frame."""
+        """
+        The `reset_display` function clears the display frame by destroying all its children and then calls
+        the `menu` function.
+        """
         for clear in self.display_frame.winfo_children():
             clear.destroy()
         self.menu()
 
     def clear_menu_frame(self):
-        """ Remove all widgets from the menu frame."""
+        """
+        The above code defines several functions for displaying information and creating visualizations
+        in a GUI application.
+        """
         for clear in self.menu_frame.winfo_children():
             clear.destroy()
         self.menu()
 
     def plot_graph(self):
-        """Create a UI that allows users to select the data they want
-        to visualize."""
+        """
+        The function `plot_graph` creates a menu with different options for visualizing data and binds each
+        option to a corresponding button.
+        """
         self.clear_menu_frame()
         msg = Label(self.menu_frame,
                     text="Select the data you want to visualize.")
@@ -81,8 +99,10 @@ class App(hp_data):
         self.reset_button()
 
     def info(self):
-        """Create a UI that allows users to select the data they want
-        to visualize."""
+        """
+        The `info` function creates a menu with options for selecting different topics and calls
+        corresponding functions when an option is selected.
+        """
         self.clear_menu_frame()
         msg = Label(self.menu_frame,
                     text="Select topic what do you want to know.")
@@ -97,8 +117,10 @@ class App(hp_data):
         self.reset_button()
 
     def button_character(self, ):
-        """Create a UI that allows users to select the data they want
-        to visualize."""
+        """
+        The function creates a menu of character names and displays the selected character's information
+        when clicked.
+        """
         self.reset_display()
         msg = Label(self.menu_frame,
                     text="Select character what do you want to know.")
@@ -114,8 +136,10 @@ class App(hp_data):
         self.reset_button()
 
     def button_potion(self):
-        """Create a UI that allows users to select the data they want to
-        visualize."""
+        """
+        The function creates a menu of potions and displays information about the selected potion when
+        clicked.
+        """
         self.reset_display()
         msg = Label(self.menu_frame,
                     text="Select potion what do you want to know.")
@@ -133,8 +157,9 @@ class App(hp_data):
         self.reset_button()
 
     def button_spell(self):
-        """Create a UI that allows users to select the data they want to
-        visualize."""
+        """
+        The function creates a menu of spells and displays the selected spell when clicked.
+        """
         self.reset_display()
         msg = Label(self.menu_frame,
                     text="Select spell what do you want to know.")
@@ -152,7 +177,13 @@ class App(hp_data):
         self.reset_button()
 
     def display_potion(self, potion):
-        """Display the selected potion."""
+        """
+        The function `display_potion` is used to display information about a potion in a graphical user
+        interface.
+        
+        :param potion: The `potion` parameter is a dictionary that contains information about a potion.
+        It has the following keys:
+        """
         self.reset_display()
         name_label = Label(self.display_frame, text="Name: ",
                            font=("Monospace", 16, "bold"))
@@ -193,7 +224,13 @@ class App(hp_data):
         self.reset_button()
 
     def display_spell(self, spell):
-        """Display the selected spell."""
+        """
+        The function `display_spell` creates labels to display the details of a spell in a graphical
+        user interface.
+        
+        :param spell: The `spell` parameter is a dictionary that contains information about a spell. It
+        has the following keys:
+        """
         self.reset_display()
         name_label = Label(self.display_frame, text="Name: ",
                            font=("Monospace", 16, "bold"))
@@ -228,7 +265,13 @@ class App(hp_data):
         Light_spell.grid(row=4, column=1, padx=5, pady=10, sticky=tk.EW)
 
     def display_character(self, character):
-        """Display the selected character."""
+        """
+        The function `display_character` takes a character object as input and displays their
+        information and image on a GUI.
+        
+        :param character: The `character` parameter is a dictionary that contains information about a
+        specific character. It should have the following keys:
+        """
         self.reset_display()
         img_url = character['image']
         response = requests.get(img_url)
@@ -266,7 +309,10 @@ class App(hp_data):
         actor_label.pack()
 
     def button_piechart(self):
-        """Create a button to display the histogram."""
+        """
+        The function `button_piechart` creates a pie chart to display the distribution of characters in
+        different houses.
+        """
         self.reset_display()
         gryffindor = 0
         slytherin = 0
@@ -292,7 +338,10 @@ class App(hp_data):
         canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
     def button_timeseries(self):
-        """Create a button to display the timeseries."""
+        """
+        The function `button_timeseries` plots a line graph showing the frequency of birth years in the
+        Harry Potter dataset.
+        """
         self.reset_display()
         year = self.df_year['Birth'].value_counts()
         year = year.sort_index()
@@ -308,7 +357,10 @@ class App(hp_data):
         canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
     def button_distribution(self):
-        """Create a button to display the distribution."""
+        """
+        The function `button_distribution` calculates the age distribution based on birth year data and
+        displays it as a bar chart.
+        """
         self.reset_display()
         year_counts = self.df_year['Birth']
         current_year = dt.datetime.now().year
@@ -323,7 +375,10 @@ class App(hp_data):
         canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
     def button_scatter(self):
-        """Create a button to display the scatterplot."""
+        """
+        The function `button_scatter` creates a scatter plot of the "Budget" and "Box Office" columns
+        from a DataFrame and displays it in a Tkinter frame.
+        """
         self.reset_display()
         figure = plt.Figure(figsize=(5, 4), dpi=100)
         ax = figure.add_subplot(111)
@@ -338,7 +393,10 @@ class App(hp_data):
         canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
     def button_description(self):
-        """Create a button to display the description."""
+        """
+        The function `button_description` calculates and displays descriptive statistics for the year of
+        birth and age of characters in the Harry Potter dataset.
+        """
         self.reset_display()
         year_list = []
         for year in self.df_year['Birth']:
@@ -387,3 +445,4 @@ class App(hp_data):
         max_label.pack()
         min_label.pack()
         sd_label1.pack()
+
